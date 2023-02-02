@@ -151,7 +151,7 @@
   display: flex;
   position: absolute;
   top: 1200px;
-  left: 900px;
+  left: 800px;
 }
 .container .right-8 .left-phone {
   background-image: url(/image/Phone1.png);
@@ -260,7 +260,7 @@
 .container footer {
   border-bottom: 2px solid #ededed;
   display: flex;
-  gap: 165px;
+  gap: 135px;
   padding-left: 109px;
   padding-top: 100px;
   padding-right: 109px;
